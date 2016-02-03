@@ -30,4 +30,6 @@ footer {
   width: 60%;
   min-height: 10vh;
   margin: auto;
+  position: relative;
+  bottom: 0;
 }
