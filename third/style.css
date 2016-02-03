@@ -9,14 +9,14 @@ body {
 header {
   width: 100%;
   min-height: 10vh;
-  background-color: #D8D8D8;
-  padding: 10px;
+  background-color: #D8D8D8
 }
 
 #cube {
   width: 75px;
-  height: 90px;
+  height: 8vh;
   float: left;
+  margin: 10px 10px 10px 20px;
   background-color: #4a90e2
 }
 
